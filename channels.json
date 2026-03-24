@@ -1,1 +1,10 @@
-[]
+{
+  "channels": [
+    {
+      "id": "bein1",
+      "name": "BeIN SPORT 1",
+      "logo": "https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",
+      "package_id": "bein"
+    }
+  ]
+}
