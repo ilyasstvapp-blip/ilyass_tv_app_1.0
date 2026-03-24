@@ -1,1 +1,16 @@
-[]
+{
+  "events": [
+    {
+      "id": "match1",
+      "team1": "Barcelona",
+      "team2": "Real Madrid",
+      "logo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMFgKB44TZq55iSxsmdlpuJCMLDr48i3ccLNypgohG1A&s=10",
+      "logo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTStdMXOAFTw6dg33zARJdQT1q84Qe0FZBaJWH6DAxvWw&s=10",
+      "time": "20:30",
+      "timezone": "Africa/Casablanca",
+      "commentator": "عصام الشوالي",
+      "channel_id": "bein1",
+      "league": "الدوري الإسباني"
+    }
+  ]
+}
