@@ -1,1 +1,9 @@
-[]
+{
+  "packages": [
+    {
+      "id": "bein",
+      "name": "BeIN SPORT",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bein_Sport_logo.png"
+    }
+  ]
+}
